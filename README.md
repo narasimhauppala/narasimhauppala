@@ -33,7 +33,7 @@
   Backend development, DevOps, smart contract design, AI/LLM projects, and cloud deployment pipelines
 
 - 📫 Reach me:
-  [LinkedIn](https://www.linkedin.com/in/narasimhauppala/) • [Portfolio](https://endearing-gnome-e31da5.netlify.app) • [Fiverr](https://www.fiverr.com/uppalanarasimha) • uppalanarasimha79@gmail.com
+  [LinkedIn](https://www.linkedin.com/in/narasimha-uppala/) • [Portfolio](https://endearing-gnome-e31da5.netlify.app) • [Fiverr](https://www.fiverr.com/uppalanarasimha) • uppalanarasimha79@gmail.com
 
 ---
 
