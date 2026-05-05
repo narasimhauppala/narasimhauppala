@@ -1,65 +1,70 @@
-<h1 align="center">Hi 👋, I'm Narasimha Uppala</h1>
+<h1 align="center">Narasimha Uppala</h1>
 
-<h3 align="center">
-🚀 Backend & AI Engineer | Scalable Systems | Cloud-Native Architect
-</h3>
+<p align="center">
+  Backend Engineer • AI/LLM Systems • Cloud-Native Architect
+</p>
 
----
-
-### 🧠 What I Do
-
-- Build **scalable backend systems** using Node.js, NestJS, Spring Boot
-- Design and deploy **AI/LLM-powered applications**
-- Architect **cloud-native systems** on AWS with Docker & Kubernetes
-- Develop **secure and performant APIs** used in production environments
+<p align="center">
+  Building scalable APIs, intelligent systems, and production-ready cloud infrastructure
+</p>
 
 ---
 
-### 💼 Experience
+## 🧠 Core Expertise
 
-**🔹 Turing — LLM Developer**  
-→ Engineered AI-driven solutions using Python & LLM pipelines  
-→ Worked on enterprise-grade applications for clients like Apple & ServiceNow  
-
-**🔹 Theatron Square**  
-→ Built and deployed **50+ REST APIs** using Node.js & AWS  
-→ Improved backend performance and system scalability  
-
-**🔹 KRIFY — Fullstack Developer**  
-→ Developed MERN-based platforms with focus on **performance & security**  
+- **Backend Systems**: Designing scalable APIs with Node.js, NestJS, Spring Boot  
+- **AI/LLM Engineering**: Building real-world applications using LLM pipelines and Python  
+- **Cloud & DevOps**: AWS-based deployments with Docker, Kubernetes, CI/CD  
+- **System Design**: Performance optimization, distributed systems, and reliability  
 
 ---
 
-### 🚀 Key Projects
+## 💼 Experience
 
-**🔗 Blockchain Academic Certificate Generator**  
-→ Built a decentralized app using **Solidity + Web3.js**  
-→ Enabled tamper-proof academic credential issuance  
+**Turing — LLM Developer**  
+- Built production-grade AI solutions using Python and LLM pipelines  
+- Contributed to enterprise workflows for clients including Apple & ServiceNow  
 
-**🔗 Online Teaching Platform**  
-→ Fullstack platform with **real-time session handling**  
-→ Designed scalable backend for concurrent users  
+**Theatron Square — Backend Engineer**  
+- Developed and deployed **50+ REST APIs** on AWS  
+- Improved backend scalability and reduced response latency  
 
-**🔗 Audio-Only Meeting App (Private)**  
-→ Built using **MERN + Flutter + WebRTC**  
-→ Deployed on **AWS EC2 with Docker & Kubernetes**  
-
-**🔗 PlantMe**  
-→ Smart plant tracking system for urban users  
+**KRIFY — Fullstack Developer**  
+- Built MERN applications with focus on **performance, security, and maintainability**  
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Selected Projects
+
+### 🔗 Blockchain Academic Certificate Generator
+- Built using **Solidity + Web3.js**
+- Designed a tamper-proof credential system with decentralized verification  
+
+### 🔗 Online Teaching Platform
+- Fullstack platform with **real-time session handling**
+- Backend designed for concurrency and low-latency communication  
+
+### 🔗 Audio-Only Meeting App *(Private)*
+- Built with **MERN + Flutter + WebRTC**
+- Deployed using **AWS EC2, Docker, Kubernetes**
+- Designed for scalable real-time communication  
+
+### 🔗 PlantMe
+- Smart tracking system for plant care and monitoring  
+
+---
+
+## 🛠️ Tech Stack
 
 **Backend:** Node.js, NestJS, Spring Boot  
-**Languages:** JavaScript, TypeScript, Python, Java  
+**Languages:** TypeScript, JavaScript, Python, Java  
 **Databases:** MongoDB, PostgreSQL  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Linux  
+**Cloud/DevOps:** AWS, Docker, Kubernetes, Linux  
 **AI/ML:** LLMs, Transfer Learning  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narasimhauppala&theme=github_dark" />
@@ -68,14 +73,15 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/narasimha-uppala/
-- 🌐 Portfolio: https://endearing-gnome-e31da5.netlify.app
-- 📧 Email: uppalanarasimha79@gmail.com
-- 💻 Fiverr: https://www.fiverr.com/uppalanarasimha
+- LinkedIn: https://www.linkedin.com/in/narasimha-uppala/
+- Portfolio: https://endearing-gnome-e31da5.netlify.app
+- Email: uppalanarasimha79@gmail.com
+- Fiverr: https://www.fiverr.com/uppalanarasimha
 
+---
 
-### ⚡ Edge
+## ⚡ Focus
 
-> I build systems that don’t just work — they scale, perform, and solve real problems.
+> I build systems that are scalable, reliable, and aligned with real-world use cases — not just demos.
