@@ -1,70 +1,81 @@
 <h1 align="center">Hi 👋, I'm Narasimha Uppala</h1>
-<h3 align="center">🚀 Fullstack Developer | 🧠 Optimization Fan | 💡 Cloud & Blockchain Enthusiast</h3>
+
+<h3 align="center">
+🚀 Backend & AI Engineer | Scalable Systems | Cloud-Native Architect
+</h3>
 
 ---
 
-- 🔭 I’m currently building with:
-  **Node.js**, **NestJS**, **MongoDB**, **PostgreSQL**, **Spring Boot**, **TypeScript**, **Java**, **Python**
+### 🧠 What I Do
 
-- 🌱 Deep diving into:
-  **Smart Contracts**, **LLMs**, **System Design**, **DevOps Pipelines**, **AWS & Azure Cloud**, **Transfer Learning**
-
-- 💼 Experience:
-  - **Turing (LLM Developer)** – Engineered custom AI solutions with Python, worked with clients like Apple & ServiceNow.
-  - **Theatron Square** – Built & deployed 50+ REST APIs for a content-sharing platform using AWS.
-  - **KRIFY** – MERN stack dev on job listing apps, focused on performance tuning & secure backend services.
-
-- 🧑‍💻 Notable Projects:
-  - 🎓 [Blockchain Academic Certificate Generator](https://github.com/narasimhauppala/Blockchain_Academic_Certificate_Generator)  
-    → Built a decentralized dApp to issue tamper-proof academic credentials via email.  
-  - 🧑‍🏫 [Online Teaching Platform](https://github.com/narasimhauppala/Online-Teaching-Platform)  
-    → Fullstack solution for remote education with real-time session handling.  
-  - 📞 [Audio-Only Meeting App] *(private repo)*  
-    → Live session app built with MERN + Flutter, scaled with AWS EC2, Docker, and Kubernetes.  
-  - 🌱 [PlantMe](https://github.com/narasimhauppala/PlantMe)  
-    → Smart plant management app for urban gardening.  
-  - ⛅ [Weather Application](https://github.com/narasimhauppala/Weather-Application)  
-    → Real-time weather app with interactive UI and location-based data.
-
-- 🧪 Certifications:
-  `AWS`, `Azure`, `DevSecOps`, `Linux`, `META Frontend`, `Python (NPTEL + HackerRank)`, `MERN Bootcamp`
-
-- 💬 Ask me about:
-  Backend development, DevOps, smart contract design, AI/LLM projects, and cloud deployment pipelines
-
-- 📫 Reach me:
-  [LinkedIn](https://www.linkedin.com/in/narasimha-uppala/) • [Portfolio](https://endearing-gnome-e31da5.netlify.app) • [Fiverr](https://www.fiverr.com/uppalanarasimha) • uppalanarasimha79@gmail.com
+- Build **scalable backend systems** using Node.js, NestJS, Spring Boot
+- Design and deploy **AI/LLM-powered applications**
+- Architect **cloud-native systems** on AWS with Docker & Kubernetes
+- Develop **secure and performant APIs** used in production environments
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💼 Experience
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**🔹 Turing — LLM Developer**  
+→ Engineered AI-driven solutions using Python & LLM pipelines  
+→ Worked on enterprise-grade applications for clients like Apple & ServiceNow  
+
+**🔹 Theatron Square**  
+→ Built and deployed **50+ REST APIs** using Node.js & AWS  
+→ Improved backend performance and system scalability  
+
+**🔹 KRIFY — Fullstack Developer**  
+→ Developed MERN-based platforms with focus on **performance & security**  
+
+---
+
+### 🚀 Key Projects
+
+**🔗 Blockchain Academic Certificate Generator**  
+→ Built a decentralized app using **Solidity + Web3.js**  
+→ Enabled tamper-proof academic credential issuance  
+
+**🔗 Online Teaching Platform**  
+→ Fullstack platform with **real-time session handling**  
+→ Designed scalable backend for concurrent users  
+
+**🔗 Audio-Only Meeting App (Private)**  
+→ Built using **MERN + Flutter + WebRTC**  
+→ Deployed on **AWS EC2 with Docker & Kubernetes**  
+
+**🔗 PlantMe**  
+→ Smart plant tracking system for urban users  
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend:** Node.js, NestJS, Spring Boot  
+**Languages:** JavaScript, TypeScript, Python, Java  
+**Databases:** MongoDB, PostgreSQL  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Linux  
+**AI/ML:** LLMs, Transfer Learning  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narasimhauppala&show_icons=true&theme=tokyonight" alt="Narasimha's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhauppala&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narasimhauppala&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=narasimhauppala&theme=github_dark" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 📫 Connect With Me
 
-> I turn coffee ☕ into code, problems into solutions, and tech into real-world impact 🌍
+- 💼 LinkedIn: https://www.linkedin.com/in/narasimha-uppala/
+- 🌐 Portfolio: https://endearing-gnome-e31da5.netlify.app
+- 📧 Email: uppalanarasimha79@gmail.com
+- 💻 Fiverr: https://www.fiverr.com/uppalanarasimha
+
+
+### ⚡ Edge
+
+> I build systems that don’t just work — they scale, perform, and solve real problems.
